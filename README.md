@@ -1,4 +1,4 @@
-prestissimo (composer plugin)
+Fork prestissimo (composer plugin)
 =================================
 
 [![Build Status](https://travis-ci.org/hirak/prestissimo.svg?branch=master)](https://travis-ci.org/hirak/prestissimo)
